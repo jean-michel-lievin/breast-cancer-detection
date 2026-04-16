@@ -255,9 +255,9 @@ This project is under the **MIT License**. See [LICENSE](LICENSE) for more detai
 **Jean-Michel LIEVIN**  
 Data Scientist | Full-Stack Developer
 
-- 🌐 Portfolio: [github.com/tabodino](https://github.com/tabodino)
-- 💼 LinkedIn: [linkedin.com/in/jean-michel-lievin-247591143](https://www.linkedin.com/in/jean-michel-lievin-247591143)
-- 📧 Email: [jeanmichel.liev1@gmail.com](mailto:jeanmichel.liev1@gmail.com)
+- 🌐 Portfolio: [jean-michel-lievin.github.io](https://jean-michel-lievin.github.io)
+- 💼 LinkedIn: [linkedin.com/in/jean-michel-lievin](https://www.linkedin.com/in/jean-michel-lievin)
+- 📧 Email: [jmichel.lievin@gmail.com](mailto:jmichel.lievin@gmail.com)
 
 ---
 
@@ -265,5 +265,5 @@ Data Scientist | Full-Stack Developer
 
 For issues and questions, open an issue on GitHub.
 
-[![Support Email](https://img.shields.io/badge/support-email-blue?logo=gmail)](mailto:jeanmichel.liev1@gmail.com)
-[![Open an Issue](https://img.shields.io/badge/GitHub-Issues-blue?logo=github)](https://github.com/tabodino/breast-cancer-detection/issues)
+[![Support Email](https://img.shields.io/badge/support-email-blue?logo=gmail)](mailto:jmichel.lievin@gmail.com)
+[![Open an Issue](https://img.shields.io/badge/GitHub-Issues-blue?logo=github)](https://github.com/jean-michel-lievin/breast-cancer-detection/issues)
